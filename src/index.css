@@ -172,6 +172,7 @@ input:focus {
   background-color: #cccccc;
   color: #333;
   cursor: auto;
+  
 }
 
 .btn:disabled:hover {
